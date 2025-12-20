@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Nextjs<br>💬 Ask me about Web-Development<br>⚡ Fun fact There is no God
+🌱 I’m currently learning Nextjs<br>💬 Ask me about Web-Development and philosophy<br>
 
 
 ## 🌐 Socials:

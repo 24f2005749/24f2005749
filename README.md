@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Nextjs<br>💬 Ask me about Web-Development and philosophy<br>
+🌱 I’m currently learning React-Native<br>💬 Ask me about Web-Development and philosophy<br>
 
 
 ## 🌐 Socials:
